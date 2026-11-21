@@ -6,15 +6,15 @@
 <!-- ===== TYPING TEXT ===== -->
 <p align="center">
   <a href="https://github.com/husaniskandarov996-a11y">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=8BAC0F&center=true&vCenter=true&width=600&height=40&lines=PYTHON+DEVELOPER;CREATOR+OF+VIRTY+BOT;AUTOMATING+BORING+STUFF;NOW+LEARNING+JAVASCRIPT" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=FF2BD6&center=true&vCenter=true&width=600&height=40&lines=PYTHON+DEVELOPER;CREATOR+OF+VIRTY+BOT;AUTOMATING+BORING+STUFF;NOW+LEARNING+JAVASCRIPT" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- ===== BADGES ===== -->
 <p align="center">
-  <a href="https://t.me/virtyuz_bot"><img src="https://img.shields.io/badge/VIRTY%20BOT-8bac0f?style=flat-square&logo=telegram&logoColor=9bbc0f&labelColor=0f380f" height="28" /></a>
-  <a href="https://github.com/husaniskandarov996-a11y?tab=followers"><img src="https://img.shields.io/github/followers/husaniskandarov996-a11y?label=FOLLOWERS&style=flat-square&color=8bac0f&labelColor=0f380f&logo=github&logoColor=9bbc0f" height="28" /></a>
-  <a href="https://github.com/husaniskandarov996-a11y"><img src="https://komarev.com/ghpvc/?username=husaniskandarov996-a11y&label=PROFILE%20VIEWS&color=306230&style=flat-square" height="28" /></a>
+  <a href="https://t.me/virtyuz_bot"><img src="https://img.shields.io/badge/VIRTY%20BOT-7b2ff7?style=flat-square&logo=telegram&logoColor=white&labelColor=0d0221" height="28" /></a>
+  <a href="https://github.com/husaniskandarov996-a11y?tab=followers"><img src="https://img.shields.io/github/followers/husaniskandarov996-a11y?label=FOLLOWERS&style=flat-square&color=ff2bd6&labelColor=0d0221&logo=github&logoColor=white" height="28" /></a>
+  <a href="https://github.com/husaniskandarov996-a11y"><img src="https://komarev.com/ghpvc/?username=husaniskandarov996-a11y&label=PROFILE%20VIEWS&color=b14aed&style=flat-square" height="28" /></a>
 </p>
 
 ---
