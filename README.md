@@ -43,7 +43,12 @@ class Khusan:
 
 ---
 
-## 💎 My Project
+<details>
+<summary><h2>📂 My Projects <sub><sup>· click to open</sup></sub></h2></summary>
+
+<br />
+
+### 💎 VIRTY Bot
 
 <p align="center">
   <a href="https://t.me/virtyuz_bot"><img src="assets/virty-card.svg" width="100%" alt="VIRTY Bot — Telegram Stars, Premium & Gifts" /></a>
@@ -55,9 +60,7 @@ class Khusan:
   </a>
 </p>
 
----
-
-## 🎮 Neon Type
+### 🎮 Neon Type
 
 <p align="center">
   <a href="https://husaniskandarov996-a11y.github.io/neon-typing-game/"><img src="assets/neon-type.png" width="80%" alt="neon type — typing game" /></a>
@@ -67,6 +70,8 @@ class Khusan:
   My first JavaScript game: type the falling words before they hit the floor.<br />
   <a href="https://husaniskandarov996-a11y.github.io/neon-typing-game/"><b>▶ play it</b></a> · <a href="https://github.com/husaniskandarov996-a11y/neon-typing-game">source code</a>
 </p>
+
+</details>
 
 ---
 
