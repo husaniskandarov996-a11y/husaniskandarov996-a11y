@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="380" viewBox="0 0 1000 380">
 <defs>
   <linearGradient id="cbg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#0d0221"/><stop offset="1" stop-color="#170433"/>
+    <stop offset="0" stop-color="#0e0e13"/><stop offset="1" stop-color="#17161e"/>
   </linearGradient>
   <linearGradient id="neon2" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#00f5ff"/><stop offset=".5" stop-color="#b14aed"/><stop offset="1" stop-color="#ff2bd6"/>
+    <stop offset="0" stop-color="#f2c14e"/><stop offset=".5" stop-color="#ff8566"/><stop offset="1" stop-color="#ff4f9a"/>
   </linearGradient>
   <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
     <stop offset="0" stop-color="#fff3a8"/><stop offset=".55" stop-color="#ffd84d"/><stop offset="1" stop-color="#ff9f1c"/>
@@ -17,12 +17,12 @@
   <clipPath id="cc"><rect width="1000" height="380" rx="20"/></clipPath>
 </defs>
 <style>
-  .lbl{font:600 15px Consolas,'Courier New',monospace;letter-spacing:4px;fill:#8be9ff}
+  .lbl{font:600 15px Consolas,'Courier New',monospace;letter-spacing:4px;fill:#ece5cf}
   .big{font:800 70px 'Segoe UI',Verdana,Arial,sans-serif;fill:#fff}
   .gold{font:700 28px 'Segoe UI',Verdana,Arial,sans-serif}
-  .txt{font:400 19px 'Segoe UI',Verdana,Arial,sans-serif;fill:#b9b3d6}
+  .txt{font:400 19px 'Segoe UI',Verdana,Arial,sans-serif;fill:#a8a29a}
   .chip{font:700 14px Consolas,'Courier New',monospace;letter-spacing:1.5px}
-  .handle{font:700 18px Consolas,'Courier New',monospace;fill:#00f5ff}
+  .handle{font:700 18px Consolas,'Courier New',monospace;fill:#f2c14e}
   .star{animation:spin 9s linear infinite;transform-origin:775px 165px;transform-box:view-box}
   @keyframes spin{0%{transform:rotate(0) scale(1)}50%{transform:rotate(180deg) scale(1.08)}100%{transform:rotate(360deg) scale(1)}}
   .halo{animation:hp 2.6s ease-in-out infinite;transform-origin:775px 165px;transform-box:view-box}
@@ -35,18 +35,18 @@
 <g clip-path="url(#cc)">
   <rect width="1000" height="380" fill="url(#cbg)"/>
   <circle cx="775" cy="165" r="150" fill="url(#halo)" class="halo"/>
-  <circle cx="775" cy="165" r="115" fill="none" stroke="#b14aed" stroke-opacity=".35" stroke-dasharray="4 8"/>
-  <circle cx="890" cy="165" r="5" fill="#00f5ff" filter="url(#g2)" class="orb" style="animation-duration:6s;animation-delay:-0s"/><circle cx="890" cy="165" r="4" fill="#ff2bd6" filter="url(#g2)" class="orb" style="animation-duration:6s;animation-delay:-3s"/><circle cx="890" cy="165" r="3.5" fill="#b14aed" filter="url(#g2)" class="orb" style="animation-duration:9s;animation-delay:-1.5s"/><circle cx="890" cy="165" r="3" fill="#ffd84d" filter="url(#g2)" class="orb" style="animation-duration:9s;animation-delay:-6s"/>
+  <circle cx="775" cy="165" r="115" fill="none" stroke="#ff8566" stroke-opacity=".35" stroke-dasharray="4 8"/>
+  <circle cx="890" cy="165" r="5" fill="#f2c14e" filter="url(#g2)" class="orb" style="animation-duration:6s;animation-delay:-0s"/><circle cx="890" cy="165" r="4" fill="#ff4f9a" filter="url(#g2)" class="orb" style="animation-duration:6s;animation-delay:-3s"/><circle cx="890" cy="165" r="3.5" fill="#ff8566" filter="url(#g2)" class="orb" style="animation-duration:9s;animation-delay:-1.5s"/><circle cx="890" cy="165" r="3" fill="#ffd84d" filter="url(#g2)" class="orb" style="animation-duration:9s;animation-delay:-6s"/>
   <path class="star" d="M775.0,87.0 L755.0,137.5 L700.8,140.9 L742.7,175.5 L729.2,228.1 L775.0,199.0 L820.8,228.1 L807.3,175.5 L849.2,140.9 L795.0,137.5Z" fill="url(#gold)" filter="url(#g2)" stroke="#fff3a8" stroke-width="2" stroke-linejoin="round"/>
   <text x="775" y="318" text-anchor="middle" class="handle">@virtyuz_bot</text>
 
-  <rect x="56" y="48" width="4" height="22" fill="#00f5ff" class="bar"/>
+  <rect x="56" y="48" width="4" height="22" fill="#f2c14e" class="bar"/>
   <text x="74" y="65" class="lbl">KHUSAN / TELEGRAM BOT</text>
   <text x="52" y="150" class="big">VIRTY Bot</text>
   <text x="56" y="196" class="gold" fill="url(#gold)">Telegram Stars · Premium · Gifts</text>
   <text x="56" y="240" class="txt">Stars for your account and posts. Fully automatic,</text>
   <text x="56" y="266" class="txt">auto top-up, 2% bonus from every friend's top-up.</text>
-  <rect x="56" y="300" width="148" height="36" rx="18" fill="#00f5ff" fill-opacity=".1" stroke="#00f5ff" stroke-opacity=".8"/><text x="130" y="323.5" text-anchor="middle" class="chip" fill="#00f5ff">AUTO TOP-UP</text><rect x="216.4" y="300" width="148" height="36" rx="18" fill="#ff2bd6" fill-opacity=".1" stroke="#ff2bd6" stroke-opacity=".8"/><text x="291" y="323.5" text-anchor="middle" class="chip" fill="#ff2bd6">2% REFERRAL</text><rect x="376.8" y="300" width="180" height="36" rx="18" fill="#b14aed" fill-opacity=".1" stroke="#b14aed" stroke-opacity=".8"/><text x="467" y="323.5" text-anchor="middle" class="chip" fill="#b14aed">24/7 AUTOMATIC</text><rect x="568.4" y="300" width="107" height="36" rx="18" fill="#ffd84d" fill-opacity=".1" stroke="#ffd84d" stroke-opacity=".8"/><text x="622" y="323.5" text-anchor="middle" class="chip" fill="#ffd84d">INSTANT</text>
+  <rect x="56" y="300" width="148" height="36" rx="18" fill="#f2c14e" fill-opacity=".1" stroke="#f2c14e" stroke-opacity=".8"/><text x="130" y="323.5" text-anchor="middle" class="chip" fill="#f2c14e">AUTO TOP-UP</text><rect x="216.4" y="300" width="148" height="36" rx="18" fill="#ff4f9a" fill-opacity=".1" stroke="#ff4f9a" stroke-opacity=".8"/><text x="291" y="323.5" text-anchor="middle" class="chip" fill="#ff4f9a">2% REFERRAL</text><rect x="376.8" y="300" width="180" height="36" rx="18" fill="#ff8566" fill-opacity=".1" stroke="#ff8566" stroke-opacity=".8"/><text x="467" y="323.5" text-anchor="middle" class="chip" fill="#ff8566">24/7 AUTOMATIC</text><rect x="568.4" y="300" width="107" height="36" rx="18" fill="#ffd84d" fill-opacity=".1" stroke="#ffd84d" stroke-opacity=".8"/><text x="622" y="323.5" text-anchor="middle" class="chip" fill="#ffd84d">INSTANT</text>
 </g>
 <rect x="1.5" y="1.5" width="997" height="377" rx="19" fill="none" stroke="url(#neon2)" stroke-width="3"/>
 </svg>
