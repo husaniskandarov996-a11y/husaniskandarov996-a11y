@@ -79,23 +79,6 @@ class Khusan:
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=husaniskandarov996-a11y&show_icons=true&hide_border=true&bg_color=0d0221&title_color=00f5ff&icon_color=7b2ff7&text_color=ffffff&ring_color=00f5ff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husaniskandarov996-a11y&layout=compact&hide_border=true&bg_color=0d0221&title_color=00f5ff&text_color=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=husaniskandarov996-a11y&hide_border=true&background=0D0221&ring=7B2FF7&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=husaniskandarov996-a11y&bg_color=0d0221&color=00f5ff&line=7b2ff7&point=ffffff&area=true&area_color=7b2ff7&hide_border=true" />
-</p>
-
 <!-- ===== FOOTER ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:7b2ff7,100:0d0221&height=120&section=footer" />
