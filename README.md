@@ -1,6 +1,6 @@
 <!-- ===== BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:7b2ff7,100:00f5ff&height=200&section=header&text=Hi,%20I'm%20Khusan&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%E2%80%A2%20Learning%20JavaScript&descAlignY=58&descSize=18&animation=fadeIn" />
+  <a href="https://github.com/husaniskandarov996-a11y"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:7b2ff7,100:00f5ff&height=200&section=header&text=Hi,%20I'm%20Khusan&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%E2%80%A2%20Learning%20JavaScript&descAlignY=58&descSize=18&animation=fadeIn" /></a>
 </p>
 
 <!-- ===== TYPING TEXT ===== -->
@@ -12,8 +12,8 @@
 
 <!-- ===== BADGES ===== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=husaniskandarov996-a11y&label=Profile%20views&color=7b2ff7&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/husaniskandarov996-a11y?label=Followers&style=for-the-badge&color=00f5ff&labelColor=0d0221" />
+  <a href="https://github.com/husaniskandarov996-a11y"><img src="https://komarev.com/ghpvc/?username=husaniskandarov996-a11y&label=Profile%20views&color=7b2ff7&style=for-the-badge" /></a>
+  <a href="https://github.com/husaniskandarov996-a11y?tab=followers"><img src="https://img.shields.io/github/followers/husaniskandarov996-a11y?label=Followers&style=for-the-badge&color=00f5ff&labelColor=0d0221" /></a>
 </p>
 
 ---
@@ -43,7 +43,7 @@ class Khusan:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
+  <a href="https://github.com/husaniskandarov996-a11y"><img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" /></a>
 </p>
 
 ---
@@ -81,5 +81,5 @@ class Khusan:
 
 <!-- ===== FOOTER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:7b2ff7,100:0d0221&height=120&section=footer" />
+  <a href="https://github.com/husaniskandarov996-a11y"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:7b2ff7,100:0d0221&height=120&section=footer" /></a>
 </p>
