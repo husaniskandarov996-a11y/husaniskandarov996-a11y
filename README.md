@@ -57,16 +57,10 @@ class Khusan:
 
 ---
 
-## 🐍 Contribution Snake
+## 🚀 Space Battle
 
 <p align="center">
-  <a href="https://github.com/husaniskandarov996-a11y">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/husaniskandarov996-a11y/husaniskandarov996-a11y/output/snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/husaniskandarov996-a11y/husaniskandarov996-a11y/output/snake-light.svg" />
-      <img alt="contribution snake" src="https://raw.githubusercontent.com/husaniskandarov996-a11y/husaniskandarov996-a11y/output/snake-dark.svg" />
-    </picture>
-  </a>
+  <a href="https://t.me/virtyuz_bot"><img src="assets/space-battle.svg" width="100%" alt="Neon space battle" /></a>
 </p>
 
 <!-- ===== FOOTER ===== -->
