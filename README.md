@@ -6,15 +6,15 @@
 <!-- ===== TYPING TEXT ===== -->
 <p align="center">
   <a href="https://github.com/husaniskandarov996-a11y">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF2BD6&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Creator+of+VIRTY+Bot+%E2%AD%90;Automating+boring+stuff+%E2%9A%A1;Currently+learning+JavaScript+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=8BAC0F&center=true&vCenter=true&width=600&height=40&lines=PYTHON+DEVELOPER;CREATOR+OF+VIRTY+BOT;AUTOMATING+BORING+STUFF;NOW+LEARNING+JAVASCRIPT" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- ===== BADGES ===== -->
 <p align="center">
-  <a href="https://t.me/virtyuz_bot"><img src="https://img.shields.io/badge/VIRTY%20BOT-00f5ff?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d0221&color=7b2ff7" /></a>
-  <a href="https://github.com/husaniskandarov996-a11y?tab=followers"><img src="https://img.shields.io/github/followers/husaniskandarov996-a11y?label=FOLLOWERS&style=for-the-badge&color=ff2bd6&labelColor=0d0221&logo=github" /></a>
-  <a href="https://github.com/husaniskandarov996-a11y"><img src="https://komarev.com/ghpvc/?username=husaniskandarov996-a11y&label=PROFILE%20VIEWS&color=b14aed&style=for-the-badge" /></a>
+  <a href="https://t.me/virtyuz_bot"><img src="https://img.shields.io/badge/VIRTY%20BOT-8bac0f?style=flat-square&logo=telegram&logoColor=9bbc0f&labelColor=0f380f" height="28" /></a>
+  <a href="https://github.com/husaniskandarov996-a11y?tab=followers"><img src="https://img.shields.io/github/followers/husaniskandarov996-a11y?label=FOLLOWERS&style=flat-square&color=8bac0f&labelColor=0f380f&logo=github&logoColor=9bbc0f" height="28" /></a>
+  <a href="https://github.com/husaniskandarov996-a11y"><img src="https://komarev.com/ghpvc/?username=husaniskandarov996-a11y&label=PROFILE%20VIEWS&color=306230&style=flat-square" height="28" /></a>
 </p>
 
 ---
