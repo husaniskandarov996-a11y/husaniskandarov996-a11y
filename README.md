@@ -81,16 +81,6 @@ class Khusan:
 
 ---
 
-## 🚀 Featured Project
-
-<p align="center">
-  <a href="https://github.com/husaniskandarov996-a11y/telegram-account-controller">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=husaniskandarov996-a11y&repo=telegram-account-controller&theme=radical&hide_border=true&bg_color=0d0221&title_color=00f5ff&icon_color=7b2ff7&text_color=ffffff" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
