@@ -6,7 +6,7 @@
 <!-- ===== TYPING TEXT ===== -->
 <p align="center">
   <a href="https://github.com/husaniskandarov996-a11y">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Building+Telegram+Bots+%F0%9F%A4%96;Automating+boring+stuff+%E2%9A%A1;Currently+learning+JavaScript+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Building+Telegram+Bots+%F0%9F%A4%96;Creator+of+VIRTY+Bot+%E2%AD%90;Automating+boring+stuff+%E2%9A%A1;Currently+learning+JavaScript+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -44,6 +44,39 @@ class Khusan:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+## 💎 VIRTY Bot
+
+<p align="center">
+  <a href="https://t.me/virtyuz_bot">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=600&color=FFD700&center=true&vCenter=true&width=500&lines=%E2%AD%90+VIRTY+Bot+%E2%AD%90;Telegram+Stars+%26+Premium;Gifts+%E2%80%A2+Post+Stars+%E2%80%A2+Auto" alt="VIRTY Bot" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Telegram Stars, Premium & Gifts — fully automated</b>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">⭐<br><b>Telegram Stars</b><br><sub>for account & posts</sub></td>
+    <td align="center">💎<br><b>Premium</b><br><sub>instant delivery</sub></td>
+    <td align="center">🎁<br><b>Gifts</b><br><sub>send to anyone</sub></td>
+  </tr>
+  <tr>
+    <td align="center">⚡<br><b>Auto top-up</b><br><sub>no waiting, no admin</sub></td>
+    <td align="center">🤖<br><b>100% automatic</b><br><sub>works 24/7</sub></td>
+    <td align="center">👥<br><b>2% referral bonus</b><br><sub>from every friend's top-up</sub></td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://t.me/virtyuz_bot">
+    <img src="https://img.shields.io/badge/Open%20VIRTY%20Bot-@virtyuz__bot-00f5ff?style=for-the-badge&logo=telegram&logoColor=white&labelColor=7b2ff7" />
+  </a>
 </p>
 
 ---
