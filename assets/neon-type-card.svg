@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="380" viewBox="0 0 1000 380">
+<defs>
+  <linearGradient id="cbg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0d0221"/><stop offset="1" stop-color="#170433"/>
+  </linearGradient>
+  <linearGradient id="neon2" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00f5ff"/><stop offset=".5" stop-color="#b14aed"/><stop offset="1" stop-color="#ff2bd6"/>
+  </linearGradient>
+  <linearGradient id="pink" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#ff8be9"/><stop offset=".55" stop-color="#ff2bd6"/><stop offset="1" stop-color="#b14aed"/>
+  </linearGradient>
+  <radialGradient id="halo"><stop offset="0" stop-color="#ff2bd6" stop-opacity=".30"/><stop offset="1" stop-color="#ff2bd6" stop-opacity="0"/></radialGradient>
+  <filter id="g2" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <clipPath id="cc"><rect width="1000" height="380" rx="20"/></clipPath>
+  <clipPath id="screen"><rect x="642" y="78" width="276" height="210"/></clipPath>
+</defs>
+<style>
+  .lbl{font:600 15px Consolas,'Courier New',monospace;letter-spacing:4px;fill:#8be9ff}
+  .big{font:800 70px 'Segoe UI',Verdana,Arial,sans-serif;fill:#fff}
+  .sub{font:700 28px 'Segoe UI',Verdana,Arial,sans-serif}
+  .txt{font:400 19px 'Segoe UI',Verdana,Arial,sans-serif;fill:#b9b3d6}
+  .chip{font:700 14px Consolas,'Courier New',monospace;letter-spacing:1.5px}
+  .hud{font:700 14px Consolas,'Courier New',monospace;letter-spacing:1px}
+  .w{font:700 18px Consolas,'Courier New',monospace;fill:#e8e4ff}
+  .inp{font:700 18px Consolas,'Courier New',monospace;fill:#ff2bd6}
+  .fall{animation:fall 7s linear infinite;opacity:0}
+  @keyframes fall{0%{transform:translateY(0);opacity:0}6%{opacity:1}88%{opacity:1}100%{transform:translateY(215px);opacity:0}}
+  .halo{animation:hp 2.6s ease-in-out infinite;transform-origin:780px 180px;transform-box:view-box}
+  @keyframes hp{0%,100%{opacity:.6;transform:scale(.9)}50%{opacity:1;transform:scale(1.1)}}
+  .blink{animation:bl 1s steps(1) infinite}
+  @keyframes bl{0%,50%{opacity:1}51%,100%{opacity:0}}
+  .floor{animation:fl 2s ease-in-out infinite}
+  @keyframes fl{0%,100%{stroke-opacity:.5}50%{stroke-opacity:1}}
+  .bar{animation:bar 3s ease-in-out infinite}
+  @keyframes bar{0%,100%{opacity:.5}50%{opacity:1}}
+</style>
+<g clip-path="url(#cc)">
+  <rect width="1000" height="380" fill="url(#cbg)"/>
+  <circle cx="780" cy="180" r="170" fill="url(#halo)" class="halo"/>
+
+  <!-- o'yin ekrani -->
+  <rect x="630" y="40" width="300" height="300" rx="14" fill="#07010f" fill-opacity=".75" stroke="#b14aed" stroke-opacity=".45"/>
+  <text x="646" y="66" class="hud" fill="#ff2bd6" filter="url(#g2)">♥ ♥ ♥</text>
+  <text x="914" y="66" text-anchor="end" class="hud" fill="#00f5ff">WPM 72</text>
+  <line x1="642" y1="74" x2="918" y2="74" stroke="#b14aed" stroke-opacity=".3"/>
+
+  <g clip-path="url(#screen)">
+    <text x="660" y="80" class="w fall" style="animation-delay:-0.2s">const</text>
+    <text x="800" y="80" class="w fall" style="animation-delay:-1.6s">salom</text>
+    <text x="720" y="80" class="w fall" style="animation-delay:-3.0s"><tspan fill="#ff2bd6" filter="url(#g2)">pyt</tspan>hon</text>
+    <text x="840" y="80" class="w fall" style="animation-delay:-4.4s">neon</text>
+    <text x="680" y="80" class="w fall" style="animation-delay:-5.8s">async</text>
+    <text x="860" y="80" class="w fall" style="animation-delay:-2.3s">dunyo</text>
+    <text x="760" y="80" class="w fall" style="animation-delay:-6.5s">return</text>
+  </g>
+
+  <line x1="642" y1="290" x2="918" y2="290" stroke="#ff2bd6" stroke-width="2" stroke-dasharray="6 5" filter="url(#g2)" class="floor"/>
+  <text x="652" y="322" class="inp">&gt; pyt<tspan class="blink">▌</tspan></text>
+  <text x="914" y="322" text-anchor="end" class="hud" fill="#ffd84d">LVL 4</text>
+
+  <!-- chap tomon -->
+  <rect x="56" y="48" width="4" height="22" fill="#00f5ff" class="bar"/>
+  <text x="74" y="65" class="lbl">KHUSAN / JAVASCRIPT GAME</text>
+  <text x="52" y="150" class="big">Neon <tspan fill="url(#pink)" filter="url(#g2)">Type</tspan></text>
+  <text x="56" y="196" class="sub" fill="url(#neon2)">Type · Survive · Top the Board</text>
+  <text x="56" y="240" class="txt">Type the falling words before they hit the floor.</text>
+  <text x="56" y="266" class="txt">English, O'zbekcha and Code word sets.</text>
+  <rect x="56" y="300" width="132" height="36" rx="18" fill="#00f5ff" fill-opacity=".1" stroke="#00f5ff" stroke-opacity=".8"/><text x="122" y="323.5" text-anchor="middle" class="chip" fill="#00f5ff">EN · UZ · JS</text><rect x="200" y="300" width="132" height="36" rx="18" fill="#ff2bd6" fill-opacity=".1" stroke="#ff2bd6" stroke-opacity=".8"/><text x="266" y="323.5" text-anchor="middle" class="chip" fill="#ff2bd6">EXTREME x4</text><rect x="344" y="300" width="148" height="36" rx="18" fill="#b14aed" fill-opacity=".1" stroke="#b14aed" stroke-opacity=".8"/><text x="418" y="323.5" text-anchor="middle" class="chip" fill="#b14aed">LEADERBOARD</text><rect x="504" y="300" width="100" height="36" rx="18" fill="#ffd84d" fill-opacity=".1" stroke="#ffd84d" stroke-opacity=".8"/><text x="554" y="323.5" text-anchor="middle" class="chip" fill="#ffd84d">NO CHEAT</text>
+</g>
+<rect x="1.5" y="1.5" width="997" height="377" rx="19" fill="none" stroke="url(#neon2)" stroke-width="3"/>
+</svg>

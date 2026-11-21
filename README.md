@@ -63,12 +63,12 @@ class Khusan:
 ### 🎮 Neon Type
 
 <p align="center">
-  <a href="https://husaniskandarov996-a11y.github.io/neon-typing-game/"><img src="assets/neon-type.png" width="80%" alt="neon type — typing game" /></a>
+  <a href="https://husaniskandarov996-a11y.github.io/neon-typing-game/"><img src="assets/neon-type-card.svg" width="100%" alt="Neon Type — typing game" /></a>
 </p>
 
 <p align="center">
-  My first JavaScript game: type the falling words before they hit the floor.<br />
-  <a href="https://husaniskandarov996-a11y.github.io/neon-typing-game/"><b>▶ play it</b></a> · <a href="https://github.com/husaniskandarov996-a11y/neon-typing-game">source code</a>
+  <a href="https://husaniskandarov996-a11y.github.io/neon-typing-game/"><img src="https://img.shields.io/badge/Play%20Neon%20Type-%E2%96%B6%20live-ff2bd6?style=for-the-badge&logo=javascript&logoColor=white&labelColor=7b2ff7" /></a>
+  <a href="https://github.com/husaniskandarov996-a11y/neon-typing-game"><img src="https://img.shields.io/badge/Source-Code-00f5ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221" /></a>
 </p>
 
 </details>
