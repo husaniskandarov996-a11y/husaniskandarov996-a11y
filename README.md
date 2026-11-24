@@ -27,10 +27,14 @@
 ```python
 class Khusan:
     role      = "Python Developer"
-    building  = "VIRTY Bot ⭐"
+    location  = "Tashkent, Uzbekistan 🇺🇿"
+    founder   = "@VIRTYuz_bot ⭐"
+    goal      = "Full-stack Developer 🎯"
     knows     = ["Python", "HTML", "CSS"]
     learning  = "JavaScript 🚀"
+    speaks    = ["Uzbek", "English", "Tajik"]
     loves     = ["Telegram bots", "Automation", "Dark neon UI 🌌"]
+    telegram  = "@khusanii 💬"
 ```
 
 ---
